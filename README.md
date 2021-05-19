@@ -4,7 +4,7 @@ This package is not my own, I just created middleware to facilitate the import a
 
 All rights and credits are for:
 
-[vkrapotkin](https://github.com/claudneysessa/x-superobject/commits?author=vkrapotkin)</br></br>
+[Vladimir Krapotkin](https://github.com/vkrapotkin)</br></br>
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7BPTUUP4DGD5C)
 
 Original project repository:
