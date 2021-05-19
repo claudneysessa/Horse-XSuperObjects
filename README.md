@@ -8,7 +8,7 @@ All rights and credits are for:
 
 Original project repository:
 
-https://github.com/claudneysessa/x-superobject
+https://github.com/onryldz/x-superobject
 
 **Delphi Cross Platform Rapid JSON**
 ------------------------------------
