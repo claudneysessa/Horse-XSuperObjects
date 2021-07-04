@@ -11,6 +11,12 @@ Original project repository:
 
 https://github.com/onryldz/x-superobject
 
+## ⚙️ Installation
+Installation is done using the [`boss install`](https://github.com/HashLoad/boss) command:
+``` sh
+$ boss install https://github.com/claudneysessa/Horse-XSuperObjects
+```
+
 **Delphi Cross Platform Rapid JSON**
 ------------------------------------
 
